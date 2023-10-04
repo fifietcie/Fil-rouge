@@ -1,0 +1,56 @@
+/* ██████╗ ███████╗███████╗███████╗████████╗
+██╔══██╗██╔════╝██╔════╝██╔════╝╚══██╔══╝
+██████╔╝█████╗  ███████╗█████╗     ██║   
+██╔══██╗██╔══╝  ╚════██║██╔══╝     ██║   
+██║  ██║███████╗███████║███████╗   ██║   
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝   ╚═╝   
+                                          */
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap');
+
+  /* font-family: 'Commissioner', sans-serif; */
+
+
+* {
+  margin: 0;
+  padding: 0;
+  /* text-align: center; */
+  font-family: "Overpass", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  --blue: #1c2942;
+  --darkblue : #0b162c;
+  --cyan: #5FC2BA;
+  --docwidth: 90%;
+  font-size: 1rem;
+  background-color: var(--darkblue);
+  color: var(--cyan);
+  height: 100vh;
+    font-family: 'Commissioner', sans-serif;
+}
+/* variable = permet de créer des raccourcis  */
+
+img,
+input {
+  width: 100%;
+}
+
+i {
+  color: var(--cyan);
+}
+
+li {
+  list-style-type: none;
+}
+
+/* ███╗   ███╗ █████╗ ██╗███╗   ██╗
+████╗ ████║██╔══██╗██║████╗  ██║
+██╔████╔██║███████║██║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║██║██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ */
+                                
